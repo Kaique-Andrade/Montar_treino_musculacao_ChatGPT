@@ -7,3 +7,4 @@ Desenvolvendo um Back End com integração com o GEMINI para desenvolver treinos
 - Filipe dos Santos Pugliesi RA: 18.02608-7
 
 ## Video de apresentação:
+https://youtu.be/ffPIgwFi1bs
